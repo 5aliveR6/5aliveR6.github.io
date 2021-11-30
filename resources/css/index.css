@@ -40,6 +40,10 @@
          animation: fadein 5s;
 }
 
+#LoginBox {
+  visibility: hidden;
+}
+
 /* Topnav Bg */
 .topnav {
   background-color: #333;
