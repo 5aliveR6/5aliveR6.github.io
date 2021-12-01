@@ -41,7 +41,11 @@
 }
 
 #LoginBox {
-  visibility: hidden;
+  max-width: 500px;
+  max-height: 250px;
+  margin: 0 auto;
+  border: solid 2px rgb(58, 146, 85);
+  border-radius: 15px;
 }
 
 /* Topnav Bg */
