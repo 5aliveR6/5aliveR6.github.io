@@ -44,8 +44,7 @@
   max-width: 500px;
   max-height: 250px;
   margin: 0 auto;
-  border: solid 2px rgb(58, 146, 85);
-  border-radius: 15px;
+  padding: 25px;
 }
 
 /* Topnav Bg */
@@ -80,6 +79,7 @@
 }
 
 button {
+  cursor: pointer;
   border: none;
   border-radius: 10px;
   background-color: rgb(58, 146, 85);
